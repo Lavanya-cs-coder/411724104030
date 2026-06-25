@@ -1,0 +1,35 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    padding: 50px;
+    background-color:aqua;
+    border-radius: 50px;
+}
+.hero-section{
+    display: flex;
+    gap:500px;
+}
+#my-img{
+    height:300px;
+    width:300px;
+    border-radius: 300px; 
+}
+#projects{
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.one{
+    display: flex;
+    flex-direction: row;
+    gap: 250px;
+    margin:50px;
+}
+footer{
+    margin-top: 100px ;
+    padding: 100px;
+    display: flex;
+    gap: 200px;
+}
